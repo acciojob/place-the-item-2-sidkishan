@@ -1,2 +1,19 @@
-
-/* Your CSS Code here. */
+.container{
+	display:flex;
+	flex-flow:row wrap;
+	justify-content:center;
+	font-size:3rem;
+}
+.item3{
+	background-color:green;
+}
+.item1{
+	background-color:red;
+}
+.item2{
+	background-color:blue;
+}
+.item{
+	width:60px;
+	height:60px
+}
